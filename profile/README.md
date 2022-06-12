@@ -1,8 +1,8 @@
 ## Playbot 🎯
 
-#🦺 Structure :
+🦺 Structure :
 
-```json
+```
 ├── Site-Dashboard
 │   ├── Nuxt
 │   └── TypeScript
