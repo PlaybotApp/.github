@@ -1,6 +1,6 @@
 ## Playbot 🎯
 
-🦺 Structure :
+🦺 Structure:
 
 ```
 ├── Site-Dashboard
@@ -18,3 +18,7 @@
 |
 └── 
 ```
+
+🔮 Practice:
+
+
