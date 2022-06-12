@@ -4,16 +4,16 @@
 
 ```
 ├── Site-Dashboard
-│   ├── Nuxt
-│   └── TypeScript
+│   ├── Vue (Nuxt)
+│   └── Javascript
 |
 ├── API
-│   ├── Express
-│   ├── NodeJS
-│   └── JS
+│   ├── Javascript (Express)
+│   └── Shell
 |
 ├── Discord-Bot
-│   ├── JS
+│   ├── Javascript
+|   ├── Shell
 │   └── Json
 |
 └── 
