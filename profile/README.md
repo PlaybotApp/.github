@@ -1,4 +1,7 @@
-## Playbot 🎯
+## Playbot
+
+![ALT](https://images-ext-1.discordapp.net/external/t5-WE3v9Bh2UlaZ0iaFrtil0C2Vxa_kVeM4n5H789O8/https/i.imgur.com/QayHdhw.png)
+
 
 🦺 Structure:
 
@@ -19,8 +22,3 @@
 └── 
 ```
 
-🔮 Practice:
-
-> The issues to realize can be found on each repository corresponding to your role.
-> Once an issue is selected, you will have to create a branch to work on and then merge it with the dev branch.
-> Your role managers will be responsible for reviewing your commits and deploying them to the main branch.
