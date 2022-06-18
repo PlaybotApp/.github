@@ -3,7 +3,11 @@
 🦺 Structure:
 
 ```
-├── Site-Dashboard
+├── Site-Landing
+│   ├── Vue (Nuxt)
+│   └── Javascript
+|
+├── Application-Web/Mobile
 │   ├── Vue (Nuxt)
 │   └── Javascript
 |
