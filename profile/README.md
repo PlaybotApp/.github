@@ -1,2 +1,2 @@
-<a href="https://play-bot.xyz" target="_blank"><img src="https://github.com/PlaybotApp/.github/blob/main/assets/Emoji.png" width="100" height="100"></a>
+<a href="https://play-bot.xyz" target="_blank"><img src="https://media.discordapp.net/attachments/985243906620932156/996441541331648632/Banniere.png" height="100px"></a>
 # Playbot
